@@ -1,1 +1,1 @@
-# Suzune-Horikita.bot
+# SuzuneHorikitabot
